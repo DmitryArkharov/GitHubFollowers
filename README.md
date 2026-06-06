@@ -33,3 +33,6 @@ La aplicación utiliza la API de GitHub para optimizar la exploración de usuari
 **Errores, Alertas y Vistas Personalizadas**<br/>Alertas de error específicas y vistas de estado vacío contribuyen a una experiencia de usuario fluida e intuitiva.
 
 **Reconocimiento de Gestos**<br/>Interacción y navegación intuitivas, con optimización del espacio en pantalla.
+
+---
+**Dmitry Arkharov** · [LinkedIn](https://linkedin.com/in/dmitryarkharov)
