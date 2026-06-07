@@ -1,3 +1,5 @@
+<img width="150" height="150" alt="GitHubFollowers Icon" src="https://github.com/user-attachments/assets/edbdb98c-1b6a-4fb8-94e2-e25d6dc1b786" />
+
 # GitHub Followers
 
 La aplicación utiliza la API de GitHub para optimizar la exploración de usuarios y el análisis de seguidores. Este proyecto está diseñado para proporcionar a los usuarios una descripción estadística de los perfiles de GitHub, descubriendo tanto a los usuarios individuales como a sus seguidores.
